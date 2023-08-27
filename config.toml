@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://chrgeng.github.io/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -13,7 +13,7 @@ languageName = "English"
 
 # Author config
 [author]
-  name = "xxxx"
+  name = "Christine Geng"
   email = ""
   link = ""
 
